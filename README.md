@@ -1,2 +1,2 @@
-# FiapAula01
+# Aula01
 Repositório da primeira aula na Fiap
